@@ -39,7 +39,7 @@ Find out more about me & feel free to connect with me here:
 - 👨‍👦‍👦 I enjoy collaborating with others and discussing open problems.
 - 💻 Currently Learning Web Devlopement. 
 - 🥅 Current Goal : DSA, CP & OpenSource
-- 📫 How to reach me: islempenywis@gmail.com.
+- 📫 How to reach me: rudaniayush777@gmail.com.
 
 <br>
 
