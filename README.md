@@ -31,15 +31,12 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 <hr>
-<br>
 
 - 🔎 Looking for internship in Devlopement Area (i.e. Web Dev.)
 - 👨‍👦‍👦 I enjoy collaborating with others and discussing open problems.
 - 💻 Currently Learning Web Devlopement. 
 - 🥅 Current Goal : DSA, CP & OpenSource
 - 📫 How to reach me: rudaniayush777@gmail.com.
-
-<br>
 
 ---
 <br>
