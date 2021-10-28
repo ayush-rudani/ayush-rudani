@@ -42,14 +42,11 @@ Find out more about me & feel free to connect with me here:
 - 📫 How to reach me: islempenywis@gmail.com.
 
 <br>
-<hr>
-<br>
-
 
 ---
+<br>
 
 ![Ayush's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=R-Ayush777&hide_border=true&theme=redical)
-
 
 ---
 <br>
