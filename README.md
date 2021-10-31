@@ -50,7 +50,7 @@ Find out more about me & feel free to connect with me here:
 ---
 <br>
 
-## 👩‍💻 Codeing Profile
+## 👩‍💻 Coding Profile
 
 
 [![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/R.Ayush777)
