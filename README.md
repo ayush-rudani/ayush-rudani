@@ -30,7 +30,7 @@ Find out more about me & feel free to connect with me here:
 	</a>
 <br><br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=R-Ayush777&style=flat-square">
 </a>
 </p>
 
