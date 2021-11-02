@@ -45,7 +45,9 @@ Find out more about me & feel free to connect with me here:
 ---
 <br>
 
-![Ayush's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=R-Ayush777&hide_border=true&theme=redical)
+<!-- ![Ayush's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=R-Ayush777&hide_border=true&theme=redical)
+ -->
+ <a href="https://github.com/R-Ayush777"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=R-Ayush777&custom_title=Ayush's%20Contribution%20Graph&theme=react-dark" /></a>
 
 ---
 <br>
