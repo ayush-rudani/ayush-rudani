@@ -8,7 +8,7 @@ I am also an open-source enthusiast.
 
 <br>
 <!-- :mailbox : Reach me out! -->
-Find out more about me & feel free to connect with me here:
+<p>Find out more about me & feel free to connect with me here:<img style="display: inline-block" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
 <br><br>
 
 
