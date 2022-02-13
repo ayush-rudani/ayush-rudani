@@ -47,7 +47,9 @@ I am also an open-source enthusiast.
 
 <!-- ![Ayush's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=R-Ayush777&hide_border=true&theme=redical)
  -->
- <a href="https://github.com/R-Ayush777"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=R-Ayush777&custom_title=Ayush's%20Contribution%20Graph&theme=react-dark" /></a>
+<!--  <a href="https://github.com/R-Ayush777"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=R-Ayush777&custom_title=Ayush's%20Contribution%20Graph&theme=react-dark" /></a> -->
+
+<img src="https://activity-graph.herokuapp.com/graph?username=R-Ayush777&theme=react-dark">
 
 ---
 <br>
@@ -86,6 +88,10 @@ I am also an open-source enthusiast.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -102,6 +108,7 @@ I am also an open-source enthusiast.
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 <!-- ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) -->
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
