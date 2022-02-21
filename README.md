@@ -49,7 +49,11 @@ I am also an open-source enthusiast.
  -->
 <!--  <a href="https://github.com/R-Ayush777"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=R-Ayush777&custom_title=Ayush's%20Contribution%20Graph&theme=react-dark" /></a> -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=R-Ayush777&theme=react-dark">
+<!-- Activity Graph -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=R-Ayush777&theme=react-dark"> -->
+[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=R-Ayush777&area=true&hide_border=true&theme=github&bg_color=22272E)](https://github.com/R-Ayush777)
+
+
 
 ---
 <br>
