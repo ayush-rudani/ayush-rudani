@@ -52,7 +52,8 @@ I am also an open-source enthusiast.
 
 <!-- Activity Graph -->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=R-Ayush777&theme=react-dark"> -->
-[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=R-Ayush777&area=true&hide_border=true&theme=github&bg_color=22272E)](https://github.com/R-Ayush777)
+![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=R-Ayush777&area=true&hide_border=true&theme=github&bg_color=22272E)
+<!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=R-Ayush777&theme=react-dark) -->
 
 
 
