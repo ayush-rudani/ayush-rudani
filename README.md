@@ -137,8 +137,8 @@ I am also an open-source enthusiast.
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 
    ![snake gif](https://github.com/R-Ayush777/R-Ayush777/blob/output/github-contribution-grid-snake.gif)
 
-</p>
+</p> -->
