@@ -1,4 +1,5 @@
 # Hey there, I'm Ayush! Great to see you here!  <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
 <img src="images/H1.png">
 <br><br>
 
@@ -57,7 +58,9 @@ I am also an open-source enthusiast.
 
 
 
----
+<!-- --- -->
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <br>
 
 ## 👨🏻‍💻 Coding Profile
@@ -70,7 +73,7 @@ I am also an open-source enthusiast.
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rudaniayush777?hr_r=1)
 [![](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ayushcrudani)
 
----
+<!-- --- -->
 
 
 ## ⚡ Tech Stack 
@@ -135,7 +138,9 @@ I am also an open-source enthusiast.
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777" /> -->
 </p>
 
----
+<!-- --- -->
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 <p align="center">
 
