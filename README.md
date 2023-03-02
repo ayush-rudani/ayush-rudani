@@ -32,7 +32,7 @@ I am also an open-source enthusiast.
 	<a href="https://stackoverflow.com/users/15392348/ayush-rudani"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <br><br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=R-Ayush777&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=ayush-rudani&style=flat-square">
 </a>
 </p>
 
@@ -47,16 +47,16 @@ I am also an open-source enthusiast.
 ---
 <br>
 
-<!-- ![Ayush's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=R-Ayush777&hide_border=true&theme=redical)
+<!-- ![Ayush's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=ayush-rudani&hide_border=true&theme=redical)
  -->
-<!--  <a href="https://github.com/R-Ayush777"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=R-Ayush777&custom_title=Ayush's%20Contribution%20Graph&theme=react-dark" /></a> -->
+<!--  <a href="https://github.com/ayush-rudani"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayush-rudani&custom_title=Ayush's%20Contribution%20Graph&theme=react-dark" /></a> -->
 
 <!-- Activity Graph -->
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=R-Ayush777&theme=react-dark"> -->
-<!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=R-Ayush777&area=true&hide_border=true&theme=github&bg_color=22272E) -->
-<!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=R-Ayush777&theme=react-dark) -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=ayush-rudani&theme=react-dark"> -->
+<!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayush-rudani&area=true&hide_border=true&theme=github&bg_color=22272E) -->
+<!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayush-rudani&theme=react-dark) -->
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=R-Ayush777&theme=xcode)](https://github.com/R-Ayush777)
+[![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayush-rudani&theme=xcode)](https://github.com/ayush-rudani)
 
 
 <!-- --- -->
