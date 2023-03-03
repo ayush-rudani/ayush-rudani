@@ -139,8 +139,8 @@ I am also an open-source enthusiast.
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=R-Ayush777&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777&hide_border=true&theme=radical" />	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-rudani&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-rudani&hide_border=true&theme=radical" />	
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777" /> -->
 </p>
 
