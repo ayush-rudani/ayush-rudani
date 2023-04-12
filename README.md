@@ -40,8 +40,8 @@ I am also an open-source enthusiast.
 
 - 🔎 Looking for internship in Devlopement Area (i.e. Web Dev.)
 - 👨‍👦‍👦 I enjoy collaborating with others and discussing upon problems.
-- 💻 Currently Learning Web Devlopement. 
-- 🥅 Current Goal : CP, ML & OpenSource
+- 💻 Currently Learning web3🔗 & Machine Learning🤖. 
+- 🥅 Current Goal : ML & OpenSource
 - 📫 How to reach me: rudaniayush777@gmail.com.
 
 ---
