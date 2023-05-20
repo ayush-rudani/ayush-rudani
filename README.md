@@ -23,7 +23,7 @@ I am also an open-source enthusiast.
 	<a href="https://dev.to/r_ayush777">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-  <a href="ayushrudani.atwebpages.com/">
+  <a href="https://ayush7.me">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
   <a href="mailto:rudaniayush777@gmail.com">
