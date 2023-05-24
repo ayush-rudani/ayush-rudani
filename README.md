@@ -56,7 +56,8 @@ I am also an open-source enthusiast.
 <!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayush-rudani&area=true&hide_border=true&theme=github&bg_color=22272E) -->
 <!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayush-rudani&theme=react-dark) -->
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayush-rudani&theme=xcode)](https://github.com/ayush-rudani)
+<!-- [![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayush-rudani&theme=xcode)](https://github.com/ayush-rudani) -->
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-rudani&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- --- -->
