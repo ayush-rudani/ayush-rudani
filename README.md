@@ -38,7 +38,6 @@ I am also an open-source enthusiast.
 
 <hr>
 
-- 🔎 Looking for internship in Devlopement Area (i.e. Web Dev.)
 - 👨‍👦‍👦 I enjoy collaborating with others and discussing upon problems.
 - 💻 Currently Learning web3🔗 & Machine Learning🤖. 
 - 🥅 Current Goal : ML & OpenSource
