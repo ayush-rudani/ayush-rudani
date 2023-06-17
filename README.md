@@ -150,7 +150,10 @@ I am also an open-source enthusiast.
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777" /> -->
 </p>
 
-<!-- --- -->
+
+
+<!--
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
@@ -159,3 +162,5 @@ I am also an open-source enthusiast.
    ![snake gif](https://github.com/R-Ayush777/R-Ayush777/blob/output/github-contribution-grid-snake.gif)
 
 </p>
+
+-->
