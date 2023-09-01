@@ -143,7 +143,7 @@ I am also an open-source enthusiast.
 
 <br>
 
-## 📈 Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-rudani&show_icons=true&hide_border=true&theme=radical" />
