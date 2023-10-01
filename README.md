@@ -46,8 +46,6 @@ I am also an open-source enthusiast.
 ---
 <br>
 
-<!-- ![Ayush's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=ayush-rudani&hide_border=true&theme=redical)
- -->
 <!--  <a href="https://github.com/ayush-rudani"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayush-rudani&custom_title=Ayush's%20Contribution%20Graph&theme=react-dark" /></a> -->
 
 <!-- Activity Graph -->
@@ -150,8 +148,6 @@ I am also an open-source enthusiast.
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-rudani&hide_border=true&theme=radical" />	
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777" /> -->
 </p>
-
-
 
 <!--
 
