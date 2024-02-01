@@ -5,7 +5,7 @@
 
 I'm Ayush Rudani a Web Developer and Competitive Programmer. My passion for developing lies with dreaming up ideas and making them come true with elegant interfaces. Competitive programming and studying DSA are two of my favourite things to do.
 
-I am also an open-source enthusiast.
+I am also an open-source enthusiast. ♥
 
 <br>
 <!-- :mailbox : Reach me out! -->
