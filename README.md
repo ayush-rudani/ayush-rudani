@@ -1,20 +1,15 @@
 # Hey there, I'm Ayush! Great to see you here! <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
 <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
-<br><br>
+<br>
 
 I'm Ayush Rudani a Web Developer and Competitive Programmer. My passion for developing lies with dreaming up ideas and making them come true with elegant interfaces. Competitive programming and studying DSA are two of my favourite things to do.
 
 I am also an open-source enthusiast. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Group of People" width="20" height="20" />
 
-<br>
 <!-- :mailbox : Reach me out! -->
 <p>Find out more about me & feel free to connect with me here: <img style="display: inline-block" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" height="30px" /></p>
-<br><br>
 
-<p align="center">
-
-</p>
+<br>
 
 <div align="center">
 
