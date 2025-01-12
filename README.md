@@ -101,6 +101,7 @@ I am also an open-source enthusiast. <img src="https://raw.githubusercontent.com
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Factory%20Worker.png" alt="Factory Worker" width="25" height="25" /> Tools & Platform
 
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
@@ -143,10 +144,8 @@ I am also an open-source enthusiast. <img src="https://raw.githubusercontent.com
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30"> Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-rudani&show_icons=true&hide_border=true&theme=radical" />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayush-rudani&theme=dark)](https://git.io/streak-stats)
-
+ 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-rudani&show_icons=true&hide_border=true&theme=radical" />
+	<img width="48%" src="https://streak-stats.demolab.com/?user=ayush-rudani&theme=dark"> 
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777" /> -->
 </p>
 
