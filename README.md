@@ -2,9 +2,7 @@
 <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
 <br>
 
-I'm Ayush Rudani a Web Developer and Competitive Programmer. My passion for developing lies with dreaming up ideas and making them come true with elegant interfaces. Competitive programming and studying DSA are two of my favourite things to do.
-
-I am also an open-source enthusiast. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Group of People" width="20" height="20" />
+I'm all about full-stack development, UI/UX design, and open-source, dev-ops, etc..... The power of LLMs fascinates me, and I’m always exploring new possibilities in AI. Beyond software, I love exploring hardware and understanding how computers work. I love geeking out with others who share my passion for tech, innovation, and pushing boundaries.
 
 <!-- :mailbox : Reach me out! -->
 <p>Find out more about me & feel free to connect with me here: <img style="display: inline-block" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" height="30px" /></p>
@@ -13,7 +11,11 @@ I am also an open-source enthusiast. <img src="https://raw.githubusercontent.com
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-in/ayush-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/ayush-rudani/) [![Twitter](https://img.shields.io/badge/TWITTER-ayush-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/r_ayush777) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15392348/ayush-rudani) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/r_ayush777) [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushrudani.co) [![Peerlist](https://github-readme-badge.peerlist.io/api/ayushrudani?style=for-the-badge)](https://peerlist.io/ayushrudani)
+[![LinkedIn](https://img.shields.io/badge/linkedin-in/ayush-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/ayush-rudani/) [![Twitter](https://img.shields.io/badge/TWITTER-ayush-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/r_ayush777) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15392348/ayush-rudani) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/r_ayush777) [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushrudani.co) 
+
+<!--
+[![Peerlist](https://github-readme-badge.peerlist.io/api/ayushrudani?style=for-the-badge)](https://peerlist.io/ayushrudani)
+-->
 
 </div>
 <hr>
