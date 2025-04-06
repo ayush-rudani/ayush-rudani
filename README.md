@@ -147,6 +147,13 @@ I'm all about full-stack development, UI/UX design, and open-source, dev-ops, et
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777" /> -->
 </p>
 
+
+
+## 📝 My Blogs
+- [Docker Multistage Builds](https://www.ayushrudani.com/blogs/docker-multistage-builds)
+- [My Kubernetes Notes](https://www.ayushrudani.com/blogs/my-kubernetes-notes)
+- [How to Transfer Files Between a Remote Server and Your Local Machine](https://www.ayushrudani.com/blogs/how-to-transfer-files-between-a-remote-server-and-your-local-machine)
+
 <!--
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
