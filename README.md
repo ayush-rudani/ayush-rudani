@@ -11,7 +11,7 @@ I'm all about full-stack development, UI/UX design, and open-source, dev-ops, et
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-in/ayush-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/ayush-rudani/) [![Twitter](https://img.shields.io/badge/TWITTER-ayush-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/r_ayush777) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15392348/ayush-rudani) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/r_ayush777) [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushrudani.co) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-in/ayush-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/ayush-rudani/) [![Twitter](https://img.shields.io/badge/TWITTER-ayush-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/r_ayush777) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15392348/ayush-rudani) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/r_ayush777) [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushrudani.com) 
 
 <!--
 [![Peerlist](https://github-readme-badge.peerlist.io/api/ayushrudani?style=for-the-badge)](https://peerlist.io/ayushrudani)
