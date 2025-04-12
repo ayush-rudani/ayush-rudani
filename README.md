@@ -150,9 +150,10 @@ I'm all about full-stack development, UI/UX design, and open-source, dev-ops, et
 
 
 ## 📝 My Blogs
-- [Docker Multistage Builds](https://www.ayushrudani.com/blogs/docker-multistage-builds)
-- [My Kubernetes Notes](https://www.ayushrudani.com/blogs/my-kubernetes-notes)
-- [How to Transfer Files Between a Remote Server and Your Local Machine](https://www.ayushrudani.com/blogs/how-to-transfer-files-between-a-remote-server-and-your-local-machine)
+- [Docker Multistage Builds](https://ayushrudani.com/blogs/docker-multistage-builds)
+- [My Docker Notes](https://ayushrudani.com/blogs/my-docker-notes)
+- [My Kubernetes Notes](https://ayushrudani.com/blogs/my-kubernetes-notes)
+- [How to Transfer Files Between a Remote Server and Your Local Machine](https://ayushrudani.com/blogs/how-to-transfer-files-between-a-remote-server-and-your-local-machine)
 
 <!--
 
