@@ -1,4 +1,5 @@
 # Hey there, I'm Ayush! Great to see you here! <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
 <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
 <br>
 
@@ -11,10 +12,9 @@ I'm all about full-stack development, UI/UX design, and open-source, dev-ops, et
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-in/ayush-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/ayush-rudani/) [![Twitter](https://img.shields.io/badge/TWITTER-ayush-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/r_ayush777) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15392348/ayush-rudani) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/r_ayush777) [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushrudani.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-in/ayush-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/ayush-rudani/) [![Twitter](https://img.shields.io/badge/TWITTER-ayush-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/r_ayush777) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15392348/ayush-rudani) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/r_ayush777) [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushrudani.com)
 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/ayushrudani?style=for-the-badge)](https://peerlist.io/ayushrudani)
-
 
 </div>
 <hr>
@@ -22,6 +22,7 @@ I'm all about full-stack development, UI/UX design, and open-source, dev-ops, et
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Family%20Man%2C%20Woman%2C%20Girl%2C%20Boy.png" alt="Group of People" width="25" height="25" /> I enjoy collaborating with others and discussing upon problems.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Goal%20Net.png" alt="Goal Net" width="25" height="25" /> Goal : Exploring
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me: rudaniayush777@gmail.com.
+
 ---
 
 <br>
@@ -73,8 +74,6 @@ I'm all about full-stack development, UI/UX design, and open-source, dev-ops, et
 
 <!--![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)-->
 <!-- ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; -->
-
-
 
 <!-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 
@@ -148,13 +147,12 @@ I'm all about full-stack development, UI/UX design, and open-source, dev-ops, et
 
 <p align="center">
  	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-rudani&show_icons=true&hide_border=true&theme=radical" />
-	<img width="48%" src="https://streak-stats.demolab.com/?user=ayush-rudani&theme=dark"> 
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777" /> -->
+	<!-- <img width="48%" src="https://streak-stats.demolab.com/?user=ayush-rudani&theme=dark">  -->
+  	<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777" /> -->
 </p>
 
-
-
 ## 📝 My Blogs
+
 - [The Power of Tool Calling in Large Language Models](https://ayushrudani.com/blogs/the-power-of-tool-calling-in-llm)
 - [Docker Multistage Builds](https://ayushrudani.com/blogs/docker-multistage-builds)
 - [My Docker Notes](https://ayushrudani.com/blogs/my-docker-notes)
