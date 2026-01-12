@@ -153,6 +153,7 @@ I'm all about full-stack development, UI/UX design, and open-source, dev-ops, et
 
 ## 📝 My Blogs
 
+- [Intro to AI Agent Infrastructure](https://ayushrudani.com/blogs/ai-agents-class-notes)
 - [The Power of Tool Calling in Large Language Models](https://ayushrudani.com/blogs/the-power-of-tool-calling-in-llm)
 - [Docker Multistage Builds](https://ayushrudani.com/blogs/docker-multistage-builds)
 - [My Docker Notes](https://ayushrudani.com/blogs/my-docker-notes)
