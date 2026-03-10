@@ -145,15 +145,18 @@ I'm all about full-stack development, UI/UX design, and open-source, dev-ops, et
 
 <!-- ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) -->
 <!-- ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)-->
+
 <br>
 
+<!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30"> Stats
-
-<p align="center">
- 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-rudani&show_icons=true&hide_border=true&theme=radical" />
-	<!-- <img width="48%" src="https://streak-stats.demolab.com/?user=ayush-rudani&theme=dark">  -->
-  	<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777" /> -->
-</p>
+ 
+<p align="center"> 
+	 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-rudani&show_icons=true&hide_border=true&theme=radical" /> 
+	 <img width="48%" src="https://streak-stats.demolab.com/?user=ayush-rudani&theme=dark">  
+	 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R-Ayush777" /> 
+</p> 
+-->
 
 ## 📝 My Blogs
 
